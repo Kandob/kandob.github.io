@@ -57,7 +57,7 @@ body {
 	height: auto;
 }
 
-.game_purchase_action {
+#widget .game_purchase_action {
   bottom: -83px !important;
   right: 0px !important;
 }
